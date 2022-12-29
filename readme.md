@@ -7,7 +7,7 @@
 Name : 최계수
 Age : 25
 MBTI : INTP
-Favorites : Soccer ⚽︎,  Music 🎧
+Hobby : Soccer ⚽︎,  Music 🎧
     
 ```
 ---
